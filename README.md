@@ -1,4 +1,4 @@
 # Information Security
 Algorithms :
-1. Shift(Caesar) Chiper
-2.SingleTransposition Chiper.
+1. Shift(Caesar) Cipher
+2.SingleTransposition Cipher.
