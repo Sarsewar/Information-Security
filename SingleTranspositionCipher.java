@@ -219,4 +219,62 @@ class LP
      
 }
 
+/**
+Enter the plainText:
+attack is tonight
+Enter the key:
+31452
+Enter Following option:
+1.Single Column 
+ 2.Doulbe Column
+
+1
+ Single Transpositon 
+Max:5
+Matrix key:
+a	t	t	a	c	
+k	i	s	t	o	
+n	i	g	h	t	
+Chiper :
+tsgaknathcottii
+Enter the key :
+31452
+Decryption using single transposition cipher :
+attackistonight
+*******************************************
+run:
+Enter the plainText:
+attack is tonight
+Enter the key:
+31452
+Enter Following option:
+1.Single Column 
+ 2.Doulbe Column
+
+2
+ Double Transpositon 
+Max:5
+Matrix key:
+a	t	t	a	c	
+k	i	s	t	o	
+n	i	g	h	t	
+Chiper :
+tsgaknathcottii
+Enter the key for double transposition:
+31452
+Max:5
+Matrix key:
+t	s	g	a	k	
+n	a	t	h	c	
+o	t	t	i	i	
+Chiper :
+gtttnoahikcisat
+ Intermediate Decryption using double transposition cipher :
+tsgaknathcottii
+Decryption:
+attackistonight
+BUILD SUCCESSFUL (total time: 16 seconds)
+
+
+*/
     
